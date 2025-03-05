@@ -37,8 +37,8 @@
   font-size: 14px;
   font-weight: bold;
   color: white;
-  position: relative; /* Ensures the text remains fixed */
-  z-index: 1; /* Keeps text above the rotating spinner */
+  position: relative; 
+  z-index: 1; 
 }
 
 @keyframes loading {
