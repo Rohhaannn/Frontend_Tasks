@@ -12,7 +12,7 @@
   border: calc(var(--loading-spinner-size) / 5) solid #ddd;
   border-radius: 50%;
   box-sizing: border-box;
-  /* border-top-color: #0ca2de; */
+  border-top-color: #0fb4f5;
   animation: loading 0.75s ease infinite;
   position: absolute;
 }
